@@ -23,7 +23,7 @@ This project is a **Gemini API-powered AI Chatbot** built using Flask. It suppor
 - **Version Control:** Git & GitHub
 
 ---
-
+```
 ## 📂 Project Structure
 chatbot_project/
 ├── app.py
@@ -38,7 +38,7 @@ chatbot_project/
 │ └── style.css
 └── README.md
 
-
+```
 
 ---
 
